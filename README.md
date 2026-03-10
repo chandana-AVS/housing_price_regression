@@ -31,6 +31,7 @@ medv (Target)                         Median value of owner-occupied homes in $1
 
 
 **🛠️ Installation & Usage**
+
    Clone the repository:Bashgit clone https://github.com/your-username/boston-housing-regression.git
    Install requirements:Bashpip install pandas scikit-learn matplotlib seaborn
    Run the prediction script:Bashpython boston_model.py
